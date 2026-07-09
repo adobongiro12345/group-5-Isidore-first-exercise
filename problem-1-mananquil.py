@@ -1,0 +1,16 @@
+name = "Aczelwhin"
+age = 16
+gpa = 1.75
+enrolled = True
+
+print(name)
+print(type(name))
+
+print(age)
+print(type(age))
+
+print(gpa)
+print(type(gpa))
+
+print(enrolled)
+print(type(enrolled))
