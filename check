@@ -1,0 +1,5 @@
+# notes
+
+* problem-3 double declaration of `age=17`
+* same problem-3 no need to include the `output` in the `.py` file
+* problem 4, missing comma `print ("...", end=" " )`
